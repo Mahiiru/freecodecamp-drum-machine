@@ -1,0 +1,14 @@
+.drum-container {
+    outline: 5px solid rgb(193, 133, 252);
+    position: relative;
+    width: 450px;
+    text-align: center;
+    background-color: #d6d6f0;
+}
+
+.drum-container .drum-pads {
+    width: 332px;
+    height: 272px;
+    display: inline-block;
+    margin: 20px;
+}
